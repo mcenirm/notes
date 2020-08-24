@@ -1,2 +1,1 @@
-# notes
-just some notes
+https://github.com/mcenirm/notes/wiki
